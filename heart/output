@@ -1,0 +1,22 @@
+
+
+Name      : Divyansh Rahangdale
+Roll no   : 18100BTCSES02782
+Class     : Data Science LAB
+Aim       : Write a programme in Python to predict if a person will get heart disease or not
+
+Test Data: [[63, 1, 3, 145, 233, 1, 0, 150, 0, 2.3, 0, 0]]
+
+Accuracy of LogisticRegression: 0.7912087912087912
+Prediction of LogisticRegression: [0.]
+
+Accuracy of DecisionTreeClassifier: 0.7472527472527473
+Predicition of DescisionTreeClassifier: [1.]
+
+Accuracy of RandomForestClassifier: 0.7692307692307693
+Predicition of RandomForestClassifier: [1.]
+
+
+
+
+
